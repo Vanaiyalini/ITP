@@ -1,0 +1,18 @@
+[ { 
+    "name": "brinthapan",
+    "email": "brinthapanj.com",
+    "password": "12345678",
+    "type": "patient"
+  },
+  {
+    "name": "Dr. Jane Smith",
+    "email": "drjanesmith1@example.com",
+    "password": "doctor123",
+    "type": "doctor"
+  },
+  {
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "password": "admin123",
+    "type": "admin"
+  }]
