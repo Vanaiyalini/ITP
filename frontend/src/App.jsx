@@ -139,8 +139,8 @@ import Booking from './Booking/Booking';
 import BookingTable from './Booking/bookingTable';
 import Bookingdetails from './Booking/bookingDetails';
 import Home from './user/home';
-import Login from './user/login';
-import { UserProvider } from "./context/UserContext.jsx";
+import Login from './user/Login';
+import { UserProvider } from "./context/UserContext";
 
 import AdminDashboard from './user/AdminDashboard';
 import AdminProfile from './user/AdminProfile';
