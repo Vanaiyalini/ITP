@@ -135,7 +135,7 @@ import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import React from 'react';
 import './App.css';
 import Availability from './Booking/availability';
-import Booking from './Booking/booking';
+import Booking from './Booking/Booking';
 import BookingTable from './Booking/bookingTable';
 import Bookingdetails from './Booking/bookingDetails';
 import Home from './user/home';
