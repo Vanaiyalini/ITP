@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { FaTachometerAlt } from 'react-icons/fa';
-import SummaryCard from './SummaryCard';
+import SummaryCard from './summaryCard';
 import axios from 'axios';
 
 export const InventorySummary = () => {
